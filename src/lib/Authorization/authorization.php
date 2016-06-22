@@ -32,7 +32,7 @@ class authorization
             "client_id": "4GtkxJhz0U1bdggHMdaySAy05IV4MEDV",
             "username": "'.$username.'",
             "password": "'.$password.'",
-            "connection": "VCS-Partner",
+            "connection": "default",
             "device": "none",
             "scope": "openid email app_metadata" 
             }';
